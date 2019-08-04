@@ -12,7 +12,8 @@
 * just https://github.com/casey/just
 * artifact https://github.com/vitiral/artifact
 * novault https://github.com/vitiral/novault
-* minimap https://github.com/dpc/text-minimap
+* text-minimap https://github.com/dpc/text-minimap
+* minimap https://github.com/paileyq/minimap
 * dotr https://github.com/dpc/dotr
 * mdBook https://github.com/rust-lang-nursery/mdBook
 * gisht https://github.com/Xion/gisht
